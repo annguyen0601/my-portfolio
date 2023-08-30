@@ -25,7 +25,7 @@
     "react-scripts": "5.0.1",
     "react-simple-typewriter": "^5.0.1",
     "web-vitals": "^2.1.4",
-    "homepage": "https://annguyen0601.github.io/myportfolio"
+    "homepage": "https://annguyen0601.github.io/my-portfolio"
   },
   "scripts": {
     "start": "react-scripts start",
